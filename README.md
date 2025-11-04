@@ -1,4 +1,4 @@
-# NX Motion Simulatoin - Friction - Preliminary Problem
+# NX Motion Simulation - Friction - Preliminary Problem
 Let's delve into friction simulation by exploring the difference between Contact Friction and General Friction by tackling a simple problem
 
 <img src="https://github.com/mgrzb451/NX_motion-Friction_problem0/blob/main/hand_calc.jpg" />
